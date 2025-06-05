@@ -1,1 +1,2 @@
 1. Note from first commit
+2. Second note from first commit
